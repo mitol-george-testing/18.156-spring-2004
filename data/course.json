@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2869f585-3c81-918b-0ee1-c51c6c782807"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Differential Analysis",
+  "course_description": "The main goal of this course is to give the students a solid foundation in the theory of elliptic and parabolic linear partial differential equations.\u00a0It is the second semester of a two-semester, graduate-level sequence on Differential Analysis.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.156",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
